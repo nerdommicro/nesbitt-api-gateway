@@ -1,0 +1,17 @@
+/*============================================
+; Title: WWW
+; Author: Richard Krasso
+; Date: 25 July 2020
+; Modified By: Michelle Nesbitt
+; Description: Demonstrates APIs
+==============================================
+*/
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
